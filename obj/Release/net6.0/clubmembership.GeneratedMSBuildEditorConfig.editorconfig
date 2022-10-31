@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = clubmembership
+build_property.RootNamespace = clubmembership
+build_property.ProjectDir = C:\Users\SU23AY\OneDrive - ING\Desktop\curs_c#\club_membership\club_membership\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SU23AY\OneDrive - ING\Desktop\curs_c#\club_membership\club_membership
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Announcement/CreateAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XENyZWF0ZUFubm91bmNlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Announcement/DeleteAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XERlbGV0ZUFubm91bmNlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Announcement/DetailsAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XERldGFpbHNBbm5vdW5jZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Announcement/EditAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XEVkaXRBbm5vdW5jZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Announcement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/CodeSnippet/CreateCodeSnippet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZVNuaXBwZXRcQ3JlYXRlQ29kZVNuaXBwZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/CodeSnippet/DeleteCodeSnippet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZVNuaXBwZXRcRGVsZXRlQ29kZVNuaXBwZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/CodeSnippet/DetailsCodeSnippet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZVNuaXBwZXRcRGV0YWlsc0NvZGVTbmlwcGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/CodeSnippet/EditCodeSnippet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZVNuaXBwZXRcRWRpdENvZGVTbmlwcGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/CodeSnippet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZVNuaXBwZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/MembershipType/CreateMembershipType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVcQ3JlYXRlTWVtYmVyc2hpcFR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/MembershipType/DeleteMembershipType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVcRGVsZXRlTWVtYmVyc2hpcFR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/MembershipType/DetailsMembershipType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVcRGV0YWlsc01lbWJlcnNoaXBUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/MembershipType/EditMembershipType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVcRWRpdE1lbWJlcnNoaXBUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/MembershipType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Membership/CreateMembership.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFxDcmVhdGVNZW1iZXJzaGlwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Membership/DeleteMembership.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFxEZWxldGVNZW1iZXJzaGlwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Membership/DetailsMembership.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFxEZXRhaWxzTWVtYmVyc2hpcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Membership/EditMembership.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFxFZGl0TWVtYmVyc2hpcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Membership/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Member/CreateMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXENyZWF0ZU1lbWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Member/DeleteMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERlbGV0ZU1lbWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Member/DetailsMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERldGFpbHNNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Member/EditMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXRNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SU23AY/OneDrive - ING/Desktop/curs_c\#/club_membership/club_membership/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-emyja6o7tr

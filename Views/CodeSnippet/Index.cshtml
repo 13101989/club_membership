@@ -1,0 +1,78 @@
+﻿@model IEnumerable<clubmembership.Models.CodeSnippetModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdcodeSnippet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContentCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Idmember)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Revision)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdsnippetPreviousVersion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateTimeAdded)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsPublished)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdcodeSnippet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContentCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idmember)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Revision)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdsnippetPreviousVersion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateTimeAdded)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsPublished)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.IdcodeSnippet }) |
+                @Html.ActionLink("Details", "Details", new { id=item.IdcodeSnippet }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.IdcodeSnippet })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

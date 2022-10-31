@@ -1,11 +1,13 @@
 ﻿using clubmembership.Data;
 using clubmembership.Models;
 using clubmembership.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace clubmembership.Controllers
 {
+    [Authorize(Roles = "User")]
     public class MemberController : Controller
     {
 

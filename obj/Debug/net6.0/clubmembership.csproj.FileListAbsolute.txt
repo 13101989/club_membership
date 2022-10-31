@@ -556,3 +556,4 @@ C:\Users\SU23AY\OneDrive - ING\Desktop\curs_c#\club_membership\club_membership\o
 C:\Users\SU23AY\OneDrive - ING\Desktop\curs_c#\club_membership\club_membership\obj\Debug\net6.0\clubmembership.pdb
 C:\Users\SU23AY\OneDrive - ING\Desktop\curs_c#\club_membership\club_membership\obj\Debug\net6.0\clubmembership.genruntimeconfig.cache
 C:\Users\SU23AY\OneDrive - ING\Desktop\curs_c#\club_membership\club_membership\obj\Debug\net6.0\ref\clubmembership.dll
+C:\Users\SU23AY\OneDrive - ING\Desktop\curs_c#\club_membership\club_membership\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll

@@ -39,7 +39,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="IdsnippetPreviousVersion" class="control-label"></label>
-                @Html.DropDownList("IdsnippetPreviousVersion", new SelectList(@ViewBag.CodeSnippetList, "Value", "Text"), "", new {})
+                <input asp-for="IdsnippetPreviousVersion" class="form-control" value="@(ViewBag.CodeSnippetLatest)"/>
             </div>
             <div class="form-group">
                 <label asp-for="DateTimeAdded" class="control-label"></label>

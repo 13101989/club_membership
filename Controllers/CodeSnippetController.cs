@@ -42,8 +42,7 @@ namespace clubmembership.Controllers
             ViewBag.MemberList = memberList;
 
             var codeSnippet = codeSnippetRepository.GetAllCodeSnippets();
-            var codeSnippetList = codeSnippet.Select(x => new SelectListItem(x.Title, x.IdcodeSnippet.ToString()));
-            ViewBag.CodeSnippetList = codeSnippetList;
+            ViewBag.CodeSnippetLatest = codeSnippet[0].IdcodeSnippet;
 
             return View("CreateCodeSnippet");
         }

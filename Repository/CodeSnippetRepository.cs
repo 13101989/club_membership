@@ -57,6 +57,8 @@ namespace clubmembership.Repository
             {
                 list.Add(MapDBObjectToModel(dbobject));
             }
+            list.Sort((x, y) => y.DateTimeAdded.CompareTo(x.DateTimeAdded));
+
             return list;
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\ClubMembership\\clubmembership\\clubmembership.csproj": {}
+    "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\club_membership\\club_membership\\clubmembership.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\ClubMembership\\clubmembership\\clubmembership.csproj": {
+    "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\club_membership\\club_membership\\clubmembership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\ClubMembership\\clubmembership\\clubmembership.csproj",
+        "projectUniqueName": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\club_membership\\club_membership\\clubmembership.csproj",
         "projectName": "clubmembership",
-        "projectPath": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\ClubMembership\\clubmembership\\clubmembership.csproj",
+        "projectPath": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\club_membership\\club_membership\\clubmembership.csproj",
         "packagesPath": "C:\\Users\\SU23AY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\ClubMembership\\clubmembership\\obj\\",
+        "outputPath": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\club_membership\\club_membership\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SU23AY\\AppData\\Roaming\\NuGet\\NuGet.Config",

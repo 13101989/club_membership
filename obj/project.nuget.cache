@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KU0S9rjwdH7CB8mrM9JlfAjTsAp+9FBN9GWOx5/qLx+H1dLpBGWtX4Jan7QACd9ATuXRK84CwHP2qI9xJYlX9Q==",
+  "dgSpecHash": "DzKi1nSwSGY9+szcTuUhi2IEOO9y5lZ8KRdK5KPkMbEkX0Gvl7l/q/YF3OM2KN+2YNlKG6THLC1J5LSUFtiClg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\ClubMembership\\clubmembership\\clubmembership.csproj",
+  "projectFilePath": "C:\\Users\\SU23AY\\OneDrive - ING\\Desktop\\curs_c#\\club_membership\\club_membership\\clubmembership.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SU23AY\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SU23AY\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
